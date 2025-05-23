@@ -1,8 +1,9 @@
-// @ts-check
-
 import js from "@eslint/js";
+// @ts-ignore
 import * as importPlugin from "eslint-plugin-import";
+// @ts-ignore
 import globals from "globals";
+// @ts-ignore
 import tseslint from "typescript-eslint";
 
 export default tseslint.config(
