@@ -1,1 +1,19 @@
-nameshort/nameiconssrc/favicon/android+chrome+192x192pngsizes192x192typeimage/pngsrc/favicon/android+chrome+512x512pngsizes512x512typeimage/pngtheme/colorfce02fbackground/colore9e7d9displaystandalonc=
+{
+  "name": "Project Stroysmeta",
+  "short_name": "Stroysmeta",
+  "icons": [
+    {
+      "src": "/public/favicon/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg"
+    },
+    {
+      "src": "/public/favicon/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/ico"
+    }
+  ],
+  "theme_color": "#fce02f",
+  "background_color": "#e9e7d9",
+  "display": "standalone"
+}
