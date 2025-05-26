@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hero section */
 .hero {
-  background-image: url('/public/images/hero-bg.jpg');
+  background-image: url('https://raw.githubusercontent.com/dennisyoungg/projectstroysmeta/refs/heads/main/public/images/hero-bg.jpg');
   background-size: cover;
   background-position: center;
   padding: 100px 0;
