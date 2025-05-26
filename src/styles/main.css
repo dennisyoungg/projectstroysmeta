@@ -234,7 +234,9 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   background-position: center;
   padding: 100px 0;
+  padding-top: 180px;
   position: relative;
+  margin-top: -80px;
 }
 
 .hero:before {
