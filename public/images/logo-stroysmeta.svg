@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 633.01 175.9">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 114.64px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Rostov, Rostov;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #ffc550;
+      }
+
+      .cls-5 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-6, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: url(#_Безымянный_градиент_5);
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-size: 48.73px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_5" data-name="Безымянный градиент 5" x1="79.17" y1="25.1" x2="436.21" y2="25.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc550"/>
+      <stop offset=".52" stop-color="#ece569"/>
+      <stop offset="1" stop-color="#deff7e"/>
+    </linearGradient>
+  </defs>
+  <text class="cls-2" transform="translate(0 134.63)"><tspan class="cls-6" x="0" y="0">Строй</tspan><tspan class="cls-4" x="312.28" y="0">СМЕТ</tspan></text>
+  <text class="cls-1" transform="translate(546 134.63)"><tspan x="0" y="0">А</tspan></text>
+  <text class="cls-3" transform="translate(475.89 41.3)"><tspan x="0" y="0">прое</tspan><tspan class="cls-5" x="104.92" y="0">к</tspan><tspan x="129.43" y="0">т</tspan></text>
+  <path class="cls-7" d="M436.21,13.81c-54.31,23.58-97.71,26.24-127.64,24.15-71.32-4.98-114.55-40.3-179.38-22.42-22.55,6.22-39.49,16.61-50.02,24.15"/>
+</svg>
