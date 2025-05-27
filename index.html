@@ -13,6 +13,20 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Top.Mail.Ru counter -->
+  <script type="text/javascript">
+  var _tmr = window._tmr || (window._tmr = []);
+  _tmr.push({id: "3652969", type: "pageView", start: (new Date()).getTime()});
+  (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+  })(document, window, "tmr-code");
+  </script>
+  <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3652969;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+  <!-- /Top.Mail.Ru counter -->
   <script type="module" src="./dist/main.js"></script>
 </head>
 <body>
@@ -188,7 +202,7 @@
             <input type="text" class="form__input" name="name" placeholder="Имя" required>
             <input type="email" class="form__input" name="email" placeholder="Email" required>
             <input type="tel" class="form__input" name="phone" placeholder="Телефон (если есть)" required>
-            <button type="submit" class="form__button">Отправить</button>
+            <button type="submit" class="form__button" onclick="_tmr.push({ type: 'reachGoal', id: 3652969, goal: 'push-forms'});">Отправить</button>
           </div>
         </form>
       </div>
